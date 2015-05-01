@@ -1,6 +1,4 @@
-# Intro
 Reformat objects in an array.
-
 
 # Install
 
