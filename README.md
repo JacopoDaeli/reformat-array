@@ -9,7 +9,10 @@ Reformat objects in an array.
 
 # Usage
 
-`var formattedArray = formatArray(array, key, target)`
+```
+var formatArray = require('format-array');
+var formattedArray = formatArray(array, key, target)
+```
 
 The following code takes an array of objects and creates a new array containing the newly reformatted objects.
 ```
