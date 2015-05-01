@@ -17,7 +17,7 @@ let _map = function(arr, iterator) {
   return results;
 };
 
-module.mapToHashtable = function (arr, key, target) {
+exports.mapToHashtable = function (arr, key, target) {
   let rObj = {};
   _each(arr, function(obj) {
     rObj[obj[key]] = obj[target];
