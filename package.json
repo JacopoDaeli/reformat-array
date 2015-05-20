@@ -1,7 +1,7 @@
 {
   "name": "reformat-array",
-  "version": "0.0.3",
-  "description": "Reformat objects in an array",
+  "version": "0.0.4",
+  "description": "Reformat objects in an array.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
