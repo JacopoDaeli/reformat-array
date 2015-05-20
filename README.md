@@ -1,11 +1,11 @@
 Reformat objects in an array.
 
-# Install
+## Install
 
-## Node
+### Node
 `npm install --save reformat-array`
 
-# Usage
+## Usage
 
 ```
 var reformatArray = require('reformat-array');
