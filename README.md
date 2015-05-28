@@ -26,7 +26,7 @@ var countries = [{code: 'UK', nEntries: 10}, {code: 'FR', nEntries: 15}, {code: 
 
 var reformattedArray = ReformatArray.mapToArray(countries, 'code', 'nEntries')
 
-// reformattedArray is now [{UK: 10}, {FR: 15}, {ESP: 30}],
+// reformattedArray is now [{UK: 10}, {FR: 15}, {ESP: 30}]
 // countries is still [{code: 'UK', nEntries: 10}, {code: 'FR', nEntries: 15}, {code: 'ESP', nEntries: 4}]
 ```
 
