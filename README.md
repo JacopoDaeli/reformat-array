@@ -3,8 +3,8 @@ Reformat objects in an array.
 
 ## Requirements
 
-This module is written using ECMAScript 6. It uses `classes`. Be sure you use the latest version of `iojs`.
-If you can't, use `reformat-array@0.0.5`.
+This module is written using ES6. It uses `classes`. Be sure you use the latest version of `iojs`.
+If you don't, use `reformat-array@0.0.5`.
 
 
 ## Install
