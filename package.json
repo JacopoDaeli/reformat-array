@@ -1,6 +1,6 @@
 {
   "name": "reformat-array",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Reformat objects in an array.",
   "main": "index.js",
   "scripts": {

@@ -4,7 +4,7 @@ Reformat objects in an array.
 ## Requirements
 
 This module is written using ES6. It uses `classes`. Be sure you use the latest version of `iojs`.
-If you don't, use `reformat-array@0.0.5`.
+If you don't, use should `reformat-array@0.0.5`.
 
 
 ## Install
