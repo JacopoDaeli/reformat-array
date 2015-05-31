@@ -4,7 +4,7 @@ Reformat objects in an array.
 ## Requirements
 
 This module is written using ES6. It uses `classes`. Be sure you use the latest version of `iojs`.
-If you don't, use should `reformat-array@0.0.5`.
+If you don't, you should use `reformat-array@0.0.5`.
 
 
 ## Install
@@ -30,7 +30,7 @@ const reformattedArray = ReformatArray.mapToArray(countries, 'code', 'nEntries')
 // countries is still [{code: 'UK', nEntries: 10}, {code: 'FR', nEntries: 15}, {code: 'ESP', nEntries: 4}]
 ```
 
-The following code takes an array of objects and creates one hash table containing the newly reformatted objects.
+The following code takes an array of objects and creates one dictionary containing the newly reformatted objects.
 ```
 const ReformatArray = require('format-array');
 

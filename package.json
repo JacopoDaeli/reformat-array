@@ -1,6 +1,6 @@
 {
   "name": "reformat-array",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reformat objects in an array.",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,11 @@
     "url": "https://github.com/JacopoDaeli/reformat-array.git"
   },
   "keywords": [
-    "async",
+    "array",
     "map",
-    "hashtable"
+    "dictionary",
+    "datatype",
+    "async"
   ],
   "author": "Jacopo Daeli <jacopo.daeli@gmail.com>",
   "license": "MIT",
